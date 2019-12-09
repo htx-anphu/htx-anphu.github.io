@@ -1793,3 +1793,7 @@ h1, h2, h3, h4, h5,
   background: #333;
   padding: 1.5px;
 }
+/* Modal pop up */
+.modal {
+  z-index: 99999999999999999;
+}
