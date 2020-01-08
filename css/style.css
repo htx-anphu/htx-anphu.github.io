@@ -205,7 +205,7 @@ html {
     background: rgba(0, 170, 0, 1); }
 
 body {
-  font-family: 'Roboto Mono', monospace;
+  font-family: sans-serif;
   scroll-behavior: smooth;
   line-height: 1.7;
   color: #364d59 !important;
@@ -251,7 +251,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   font-weight: 300;
   color: rgba(0, 170, 0, 1);
-  font-family: 'Roboto Mono', monospace; }
+  font-family: sans-serif; }
 
 .border-2 {
   border-width: 2px; }
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5,
 .form-control {
   height: 55px;
   background: #fff !important;
-  font-family: 'Roboto Mono', monospace;
+  font-family: sans-serif;
   border: transparent !important; }
   .form-control:active, .form-control:focus {
     border-color: rgba(0, 170, 0, 1); }
@@ -315,7 +315,7 @@ h1, h2, h3, h4, h5,
   background-color: #c9ccd4; }
   @media (min-width: 768px) {
     .site-footer {
-      padding: 1em 0; } }
+      padding: 0.5em 0; } }
   .site-footer .border-top {
     border-top: 1px solid rgba(255, 255, 255, 0.1) !important; }
   .site-footer p {
@@ -431,7 +431,7 @@ h1, h2, h3, h4, h5,
       left: 0;
       font-size: 20px;
       top: -.3rem;
-      font-family: 'Roboto Mono', monospace;
+      font-family: sans-serif;
       content: "\e5ca";
       position: absolute; }
   .ul-check.white li:before {
@@ -523,7 +523,7 @@ h1, h2, h3, h4, h5,
           -webkit-transform: translateY(-50%);
           -ms-transform: translateY(-50%);
           transform: translateY(-50%);
-          font-family: 'Roboto Mono', monospace; }
+          font-family: sans-serif; }
       .site-navbar .site-navigation .site-menu .has-children .dropdown {
         visibility: hidden;
         opacity: 0;
@@ -691,7 +691,7 @@ h1, h2, h3, h4, h5,
       .site-mobile-menu .site-nav-wrap .arrow-collapse:before {
         font-size: 12px;
         z-index: 20;
-        font-family: 'Roboto Mono', monospace;
+        font-family: sans-serif;
         content: "\f078";
         position: absolute;
         top: 50%;
@@ -987,7 +987,7 @@ h1, h2, h3, h4, h5,
     font-style: italic;
     font-size: 18px;
     color: #000;
-    font-family: 'Roboto Mono', monospace;
+    font-family: sans-serif;
     position: relative; }
   .block-testimony-1 figure {
     position: relative;
@@ -1403,7 +1403,7 @@ h1, h2, h3, h4, h5,
     top: 1rem;
     font-size: 2rem;
     color: #71bc42;
-    font-family: 'Roboto Mono', monospace;
+    font-family: sans-serif;
     content: "\e86c"; }
   .feature-3 h3 {
     font-size: 1.3rem; }
@@ -1474,7 +1474,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     content: "\e317";
     position: absolute;
-    font-family: 'Roboto Mono', monospace; }
+    font-family: sans-serif; }
 
 .heading-39291 {
   text-transform: uppercase;
